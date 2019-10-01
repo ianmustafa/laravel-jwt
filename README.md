@@ -12,4 +12,4 @@ Laravel TDD is a simple RESTful API that implements JWT authentication, built wi
 This app contains only the auth implementation: register, login, see authenticated user and logout. Being said, this app also contains simple test suite to test the API endpoints, that can be a good starting point for test-driven API development.
 
 ## License
-[MIT](LICENSE).
+[MIT](LICENSE). 
